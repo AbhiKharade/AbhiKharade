@@ -22,7 +22,8 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/abhishek-kharade">
+  
+<a href="https://www.linkedin.com/in/abhishek-kharade-12637b31b/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -70,13 +71,6 @@ Machine learning model predicting customer churn.
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhikharade&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 ### 📈 Contribution Graph
 
@@ -85,6 +79,5 @@ Machine learning model predicting customer churn.
 </p>
 
 ---
-
 
 >
