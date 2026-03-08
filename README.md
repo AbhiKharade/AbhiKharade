@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhi Kharade</h1>
-<h3 align="center">Data Science Student | AI & ML Enthusiast | Python Developer</h3>
+<h3 align="center">Data Science Student</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Open+Source+Learner&center=true&width=500&height=45">
@@ -36,7 +36,7 @@
 ### 🛠 Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,linux,git,vscode,anaconda,tensorflow,sklearn,pandas,numpy"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,linux,git,vscode,jupyter,pandas,numpy,matplotlib"/>
 </p>
 
 ---
@@ -86,14 +86,5 @@ Machine learning model predicting customer churn.
 
 ---
 
-### 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://github.com/abhikharade/abhikharade/blob/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=abhikharade"/>
-</p>
+>
