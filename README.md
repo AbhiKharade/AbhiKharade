@@ -58,15 +58,15 @@ Machine learning model predicting customer churn.
 ### 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhikharade&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbhiKharade&show_icons=true&theme=tokyonight">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhikharade&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiKharade&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhikharade&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiKharade&theme=tokyonight">
 </p>
 
 ---
